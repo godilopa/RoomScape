@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/TestKeplerians/Scenes/Root.unity
+    guid: f95b94a42d623eb488f42fa332a79dfa
+  - enabled: 1
+    path: Assets/TestKeplerians/Scenes/Menu_Alvaro_Godinez.unity
+    guid: 20133be7bbdad7c46bee77eb6cec39e7
+  - enabled: 1
+    path: Assets/TestKeplerians/Scenes/Game.unity
+    guid: adda7f720f79ead41a7af4c05c15027a
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 8742fdbc833f08d4db800a387639f1cd,
+      type: 2}
